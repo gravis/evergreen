@@ -1,6 +1,6 @@
 = Evergreen
 
-{<img src="http://travis-ci.org/jnicklas/evergreen.png" />}[http://travis-ci.org/jnicklas/evergreen]
+{<img src="https://travis-ci.org/jnicklas/evergreen.png?branch=master" alt="Build Status" />}[https://travis-ci.org/jnicklas/evergreen]
 
 "Because green is the new Blue(Ridge)"
 
